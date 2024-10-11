@@ -43,7 +43,6 @@ In this project, I worked on analysing the sales data for a fictitious company n
    ![alert](https://github.com/user-attachments/assets/7cf9af53-068e-43f6-a038-b2b5f429f77d)
 
 8) QnA
-   ![QNA 1](https://github.com/user-attachments/assets/476a0bac-f8a2-4539-b93a-55877cc5246b)
    
    ![QNA 2](https://github.com/user-attachments/assets/942cef0b-a260-452e-b149-56f06e100bdb)
 
