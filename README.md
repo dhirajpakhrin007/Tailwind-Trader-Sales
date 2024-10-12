@@ -1,4 +1,4 @@
-In this project, I worked on analysing the sales data for a fictitious company named Tailwind Trader generating an insightful decision to take actionable data-driven decision.Below are some of the task that I performed to accomplish my project.
+In this project, I worked on analysing the sales performance for a fictitious company named Tailwind Trader generating an insightful decision to take actionable data-driven decision.Below are some of the task that I performed to accomplish my project.
 
 1) Using MS Excel, I obtain data from various sources and then cleaned, transformed, and load the data for further analysis.
    
